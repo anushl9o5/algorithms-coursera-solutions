@@ -1,1 +1,1 @@
-## Programming assignment solutions for Algorithms Specialization
+## Programming assignment solutions for Algorithms Specialization (Stanford)
