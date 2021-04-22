@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 def count_split(array, counter):
     
@@ -34,7 +35,7 @@ def count_split(array, counter):
     elif(j>=len(b)):
         c+=a[i:]
         
-    return c, counter+num_a+num_b
+    return c, counter + num_a + num_b
 
 if __name__ =="__main__":
 
